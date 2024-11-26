@@ -1,2 +1,2 @@
 # AP1PA
-Programování a algoritmizace
+1st semester - class AP1PA
