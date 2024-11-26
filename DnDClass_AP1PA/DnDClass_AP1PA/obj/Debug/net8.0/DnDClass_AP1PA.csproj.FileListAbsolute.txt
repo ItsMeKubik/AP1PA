@@ -1,0 +1,14 @@
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\bin\Debug\net8.0\DnDClass_AP1PA.exe
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\bin\Debug\net8.0\DnDClass_AP1PA.deps.json
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\bin\Debug\net8.0\DnDClass_AP1PA.runtimeconfig.json
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\bin\Debug\net8.0\DnDClass_AP1PA.dll
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\bin\Debug\net8.0\DnDClass_AP1PA.pdb
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.AssemblyInfoInputs.cache
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.AssemblyInfo.cs
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.csproj.CoreCompileInputs.cache
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.dll
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\refint\DnDClass_AP1PA.dll
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.pdb
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\DnDClass_AP1PA.genruntimeconfig.cache
+C:\Users\Typek\Desktop\FAI\1.Semestr\AP1PA\DnDClass_AP1PA\DnDClass_AP1PA\obj\Debug\net8.0\ref\DnDClass_AP1PA.dll
